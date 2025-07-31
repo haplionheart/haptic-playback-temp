@@ -6,6 +6,8 @@ body {
   font-weight: normal;
   font-style: normal;
   overflow-x: hidden;
+  background: #fbfbfb;
+  /* font-family: 'Roboto', sans-serif; */
 }
 
 * {
@@ -1011,20 +1013,20 @@ p {
 
 main.main-06 {
   /* background: #0A0A0A; */
-  background: #ffffff;
+  /* background: #fcfcfc; */
   overflow: hidden;
 }
 
 main .header.header-06 {
   position: unset;
-  padding-top: 100px;
-  padding-bottom: 120px;
+  padding-top: 50px;
+  padding-bottom: 10px;
 }
 
 @media (max-width: 767px) {
   main .header.header-06 {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 25px;
+    padding-bottom: 0px;
   }
 }
 
